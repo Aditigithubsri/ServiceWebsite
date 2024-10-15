@@ -1,0 +1,47 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  font-family: Montserrat;
+ 
+}
+.background-image {
+  background-image: url("https://directlinedev.com/media/cases/salvatori/clear/great_background_1_b8t6rew.wide.jpeg"); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  
+}
+.heading {
+  font-size: 40px;
+  font-weight: 600;
+}
+.seperation {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  padding: 80px;
+  gap: 50px;
+}
+.ulList{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.lists{
+    font-size: 18px;
+    font-weight: 600;
+    list-style: none;
+    
+   }
+.para{
+    font-size: 17px;
+    font-weight: 500;
+}
+
