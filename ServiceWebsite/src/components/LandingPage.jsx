@@ -11,10 +11,10 @@ const LandingPage = () => {
         <div className="background-image">
             <div className="seperation">
                 <div>
-                    <h1 className="heading">Stand Out from the Crowd with Our Professional Resume Writing Services
+                    <h1 className="heading">Unlock your career potential with our comprehensive suite of services!
                     </h1>
                     <ul className="ulList">
-                        <li className="lists"><span><CheckCircleIcon/></span>10000+ Happy Clients</li>
+                        <li className="lists"><span><CheckCircleIcon/></span>1000+ Happy Clients</li>
                         <li className="lists"><span><CheckCircleIcon/></span>Experienced Writers</li>
                         <li className="lists"><span><CheckCircleIcon/></span>Global Presence</li>
                     </ul>

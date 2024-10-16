@@ -4,7 +4,7 @@ const Form = () => {
     return (
         
         <div className="background">
-            <h2 className="title">Get your Dream Job with the help of Professional Writers</h2>
+            <h2 className="title">Resumes that Reflect Your Unique Strengths</h2>
             <div>
 
                 {/* inputs applied here */}
